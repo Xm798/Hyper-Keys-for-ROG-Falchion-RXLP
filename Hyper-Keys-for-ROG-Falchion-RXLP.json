@@ -83,7 +83,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -105,7 +105,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -127,7 +127,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -149,7 +149,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -171,7 +171,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -193,7 +193,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -215,7 +215,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -237,7 +237,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -259,7 +259,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -281,7 +281,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -303,7 +303,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -325,7 +325,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
@@ -347,7 +347,7 @@
                 "right_option"
               ],
               "optional": [
-                "left_shift"
+                "any"
               ]
             }
           },
